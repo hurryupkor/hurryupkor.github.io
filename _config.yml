@@ -1,15 +1,15 @@
 title: huk-wiki
-description: This is HurryUp Korea Corp wiki
+description: 안녕하세요. 허리업 코리아 위키 입니다.
 show_downloads: false
-comments: true
-logo_url: https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1122px-Wikipedia-logo-v2.svg.png
+comments: false
+logo_url: CI.png
 google_analytics:
 git_branch: master
 theme: 
 use_github_wiki: false
 use_prose_io: true
 google_cse_token: 
-custom_sidebar: true
+custom_sidebar: false
 gems:
   - jekyll-sitemap
   - jekyll-mentions
