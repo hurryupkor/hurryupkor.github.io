@@ -45,7 +45,7 @@
 
 
 ## Contact Us
-서울특별시 강남구 테헤란로20길 10, 1172호(역삼동, 쓰리엠타워11층) [지도](http://dmaps.kr/t6f8)
-eMail : <huks@hurryupkor.com>
-Tel : 070-7584-1582
-SNS : [Facebook](https://www.facebook.com/hurryupkor)
+* Address : 서울특별시 강남구 테헤란로20길 10, 1172호(역삼동, 쓰리엠타워11층) [지도](http://dmaps.kr/t6f8)
+* eMail : <huks@hurryupkor.com>
+* Tel : 070-7584-1582
+* SNS : [Facebook](https://www.facebook.com/hurryupkor)
