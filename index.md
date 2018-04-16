@@ -8,6 +8,7 @@
 
 아직은 어린 신생회사라서 없는 것들이 많습니다.
 > 눈치야근, 파벌정치, 열정페이, 허례허식, 꼬장상사 등등…
+
 그럼에도 가진 것들도 많습니다.
 > 잔뼈가 굵은 노련함. 키보드 위에 피어난 신뢰, 초년생 같은 열정 등등…
 
@@ -29,12 +30,13 @@
 * 2014년 10월 ㈜ ebaykorea 상품관리 개발운영 계약
 
 
-## Vision㈜ 허리업 코리아가 그리는 비전은 단순합니다.
+## Vision
+㈜ 허리업 코리아가 그리는 비전은 단순합니다.
 지금처럼 앞으로도 즐거운 일터로 출근해서 행복한 가정으로 퇴근하는 것.
 저희는 그런 회사입니다.
 
 
-##Corp Culture
+## Corp Culture
 * 워크샵~~이라쓰고 MT라 읽는다~~
 * 월간 회식
 * 비정기적 벙개
@@ -44,6 +46,6 @@
 
 ## Contact Us
 서울특별시 강남구 테헤란로20길 10, 1172호(역삼동, 쓰리엠타워11층) [지도](http://dmaps.kr/t6f8)
-<huks@hurryupkor.com>
+eMail : <huks@hurryupkor.com>
 Tel : 070-7584-1582
-[Facebook](https://www.facebook.com/hurryupkor)
+SNS : [Facebook](https://www.facebook.com/hurryupkor)
