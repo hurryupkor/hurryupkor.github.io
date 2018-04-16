@@ -1,5 +1,5 @@
-title: huk-wiki
-description: 안녕하세요. 허리업 코리아 위키 입니다.
+title: HUK-WIKI
+description: 환영합니다. 허리업 코리아 입니다.
 show_downloads: false
 comments: false
 logo_url: CI.png
@@ -7,8 +7,8 @@ google_analytics:
 git_branch: master
 theme: 
 use_github_wiki: false
-use_prose_io: true
-google_cse_token: 
+use_prose_io: false
+google_cse_token: https://cse.google.co.kr/cse/publicurl?cx=000504540717431030146:t9e8vbs1ek8
 custom_sidebar: false
 gems:
   - jekyll-sitemap
